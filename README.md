@@ -18,7 +18,7 @@ Dictionary (UET OASIS)
 ## Technologies
 - IntelliJ IDEA Community Edition 2023.2.5
 - Scene Builder
-- JavaFX vesion 21-ea+24
+- JavaFX version 21-ea+24
 - CSS
 - SQLite 3.34.0
 - ...
