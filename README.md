@@ -3,7 +3,6 @@
 Contributors:
 - Hoàng Đức Dương - K67 -CA-CLC2 (Back-end)
 - Hoàng Duy Hưng - K67-CA-CLC2 (Front-end)
-- Nguyễn Tiến Đạt - K67-CA-CLC2
 
 ## Introduction
 Dictionary (UET OASIS)
